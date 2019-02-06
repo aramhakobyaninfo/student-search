@@ -25,7 +25,7 @@ public class BinarySearchTree
    /**
     * Inserts a new node into the tree.
     *
-    * @param obj the object to insert
+    * @parameter obj the object to insert
     */
    public void add(Comparable obj)
    {
